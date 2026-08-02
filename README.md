@@ -11,7 +11,8 @@ This can be considered a kind of continuation of Hello Neighbor modding, but in 
 This is almost a 1:1 Mod Kit made from scratch. **But better and more optimized.**
 
 ##### Project's features
-- **Full AI customization:** write your own complex tasks in Blueprints. ✅
+- Complete recreation of HN mechanics and some NEW things ✅
+- **Full AI customization:** write your own complex tasks in Blueprints ✅
 - Multiplayer support ✅
 - Self-learning AI ✅
 - 2016 old art style vibes ✅
